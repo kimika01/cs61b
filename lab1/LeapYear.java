@@ -3,7 +3,7 @@
  */
 public class LeapYear {
 
-    /** myli writes isLeapYear to judge whether a year is a leap year. */
+    /** myli writes isLeapYear to judge whether a year is a leap year. 20230313 */
     public static boolean isLeapYear(int year) {
         if (year % 400 == 0) {
             return true;
